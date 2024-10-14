@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mangojelly/static/js/main.7c1ce11d.js",
+    "index.html": "/mangojelly/index.html",
+    "main.7c1ce11d.js.map": "/mangojelly/static/js/main.7c1ce11d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7c1ce11d.js"
+  ]
+}
